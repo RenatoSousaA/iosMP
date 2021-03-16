@@ -1,0 +1,11 @@
+framework module Liveness {
+  umbrella header "Liveness-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module Liveness.Swift {
+    header "Liveness-Swift.h"
+    requires objc
+}

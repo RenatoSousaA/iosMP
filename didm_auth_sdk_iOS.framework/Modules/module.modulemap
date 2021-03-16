@@ -1,0 +1,6 @@
+framework module didm_auth_sdk_iOS {
+  umbrella header "didm_auth_sdk_iOS.h"
+
+  export *
+  module * { export * }
+}

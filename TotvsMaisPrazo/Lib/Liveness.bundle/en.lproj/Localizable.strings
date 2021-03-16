@@ -1,0 +1,49 @@
+/* 
+  Localizable.strings
+  liveness
+
+  Created by Katerin Vasquez on 2/7/18.
+  Copyright © 2018 Katerin Vasquez. All rights reserved.
+*/
+/* Liveness view text */
+/* Liveness view text */
+
+"button_tips_text" = "START";
+"app_name" = "FaceIDAuthenticatorSDK";
+"liveness_exit_message_text" = "Process Finish";
+"liveness_success_message_text" = "Process success";
+"liveness_nearby_message_text" = "Keep your face centered";
+"liveness_smile_message_text" = "Smile";
+"liveness_neutral_message_text" = "Stay Stil";
+"liveness_side_message_text" = "Turn your head";
+"liveness_blink_message" = "Please Blink";
+"liveness_blink_init_message" = "Please Blink";
+"error_face_not_found_message_text" = "Error getting vector image";
+"wait_success_progress_tittle_text" = "Please wait.";
+"wait_success_progress_message_text" = "Loading server configuration";
+
+/* HEXA colors for Liveness views */
+
+"button_tips_background_color" = "#2AA5DE";
+"button_tips_text_color" = "#FFFFFF";
+"tips_tittle_color" = "#2AA5DE";
+"tips_indicator_no_select_color" = "#666666";
+"tips_indicator_select_color" = "#95B9F00";
+"liveness_exit_message_color" = "#FFFFFF";
+"liveness_success_message_color" = "#FFFFFF";
+"liveness_nearby_message_color" = "#FFFFFF";
+"liveness_smile_message_color" = "#FFFFFF";
+"liveness_neutral_message_color" = "#FFFFFF";
+"liveness_side_message_color" = "#FFFFFF";
+"success_progress_color"="#9B9F00";
+
+/* Text for Tips views  */
+
+"tips_tittle_text" = "TIPS";
+"tips_one_text" = "Keep your face centered, find a space with adequate lighting and follow the instructions";
+"tips_two_text" = "Follow the tips of each step to continue";
+"tips_three_text" = "Keep the face inside the circle area";
+
+/* HEXA colors for Tips view */
+
+"tips_message_color" = "#FFFFFF";

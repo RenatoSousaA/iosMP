@@ -1,0 +1,11 @@
+framework module did_sdk_data_ios {
+  umbrella header "did_sdk_data_ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module did_sdk_data_ios.Swift {
+    header "did_sdk_data_ios-Swift.h"
+    requires objc
+}

@@ -1,0 +1,11 @@
+framework module FaceDetector {
+  umbrella header "FaceDetector-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module FaceDetector.Swift {
+    header "FaceDetector-Swift.h"
+    requires objc
+}

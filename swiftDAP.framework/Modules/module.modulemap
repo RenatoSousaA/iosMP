@@ -1,0 +1,6 @@
+framework module swiftDAP {
+  umbrella header "swiftDAP.h"
+
+  export *
+  module * { export * }
+}

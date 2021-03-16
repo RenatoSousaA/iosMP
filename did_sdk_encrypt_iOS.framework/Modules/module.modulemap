@@ -1,0 +1,6 @@
+framework module did_sdk_encrypt_iOS {
+  umbrella header "did-sdk-encrypt-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
